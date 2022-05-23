@@ -1,0 +1,15 @@
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.csproj.AssemblyReference.cache
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.AssemblyInfoInputs.cache
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.AssemblyInfo.cs
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.csproj.CoreCompileInputs.cache
+F:\Education\Education\Examples\Education\Seminar2_Task1\bin\Debug\net6.0\Seminar2_Task1.exe
+F:\Education\Education\Examples\Education\Seminar2_Task1\bin\Debug\net6.0\Seminar2_Task1.deps.json
+F:\Education\Education\Examples\Education\Seminar2_Task1\bin\Debug\net6.0\Seminar2_Task1.runtimeconfig.json
+F:\Education\Education\Examples\Education\Seminar2_Task1\bin\Debug\net6.0\Seminar2_Task1.dll
+F:\Education\Education\Examples\Education\Seminar2_Task1\bin\Debug\net6.0\Seminar2_Task1.pdb
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.dll
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\refint\Seminar2_Task1.dll
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.pdb
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\Seminar2_Task1.genruntimeconfig.cache
+F:\Education\Education\Examples\Education\Seminar2_Task1\obj\Debug\net6.0\ref\Seminar2_Task1.dll
