@@ -17,4 +17,3 @@ double Gipotenusa(double sum)
     return Math.Sqrt(sum);
 }
 Console.WriteLine($"Расстояние между точками равно {distance}");
-/
