@@ -9,7 +9,7 @@ if (ostatok(numberA, numberB) != 0)
     Console.WriteLine(ostatok(numberA, numberB));
 }
 
-else 
+else
 {
     Console.Write("Ответ: ");
     Console.WriteLine(numberA / numberB);
@@ -17,4 +17,4 @@ else
 int ostatok(int numberA, int numberB)
 {
     return numberA % numberB;
-} 
+}
